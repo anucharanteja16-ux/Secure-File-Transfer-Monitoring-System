@@ -1,0 +1,45 @@
+{
+    "sensitive_keywords": [
+        "confidential",
+        "secret",
+        "password",
+        "credential",
+        "financial",
+        "salary",
+        "bank",
+        "private",
+        "restricted",
+        "employee"
+    ],
+    "sensitive_extensions": [
+        ".pem",
+        ".key",
+        ".pfx",
+        ".kdbx",
+        ".env"
+    ],
+    "restricted_directories": [
+        "Confidential",
+        "Restricted",
+        "Finance"
+    ],
+    "allowed_destinations": [
+        "monitored"
+    ],
+    "ignored_filenames": [
+        "desktop.ini",
+        "thumbs.db"
+    ],
+    "allow_normal_file_transfer": true,
+    "enable_integrity_check": true,
+    "enable_security_alerts": true,
+    "monitor_desktop": true,
+    "monitor_onedrive": true,
+    "monitor_usb": true,
+    "cloud_folders": [],
+    "network_folders": [
+        "C:/Users/charan/Simulated_USB"
+    ],
+    "bulk_count": 5,
+    "bulk_window_seconds": 60
+}
