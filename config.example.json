@@ -37,9 +37,7 @@
     "monitor_onedrive": true,
     "monitor_usb": true,
     "cloud_folders": [],
-    "network_folders": [
-        "C:/Users/charan/Simulated_USB"
-    ],
+    "network_folders": [],
     "bulk_count": 5,
     "bulk_window_seconds": 60
 }

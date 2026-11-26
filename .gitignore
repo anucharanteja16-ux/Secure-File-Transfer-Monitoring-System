@@ -5,7 +5,7 @@ venv/
 .env
 logs/
 alerts/
-reports/
 monitored/
+reports/
 screenshots/
 config.json
