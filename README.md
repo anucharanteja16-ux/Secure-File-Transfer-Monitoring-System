@@ -41,3 +41,6 @@ Hash matches suggest but do not prove copy/move causation. Identical content can
 4. Why separate baseline and current index? Detect tampering while correlating current content.
 5. What is DLP? Policies for identifying and reducing unauthorized data movement; this prototype alerts rather than blocks.
 6. Future scope? Windows object-access auditing, durable sensitivity labels, signed centralized logs, cloud provider audit APIs and enterprise DLP enforcement.
+
+## First-time configuration
+Copy config.example.json to config.json before starting the monitoring application.
